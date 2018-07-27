@@ -1,6 +1,4 @@
-# template
-
-> 项目模版
+# 智慧金州vue项目
 
 npm install
 
